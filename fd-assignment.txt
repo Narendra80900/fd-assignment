@@ -1,0 +1,84 @@
+ 1. Are the HTML tags and elements the same thing?
+==> Tags and Elements are not the same
+
+2.What are tags and attributes in HTML?
+==>All HTML elements can have attributes
+   Attributes provide additional information about elements
+   Attributes are always specified in the start tag
+   Attributes usually come in name/value pairs like: name="value"
+
+3. What are void elements in HTML?
+==>A void element is an element whose content model never allows it to have contents under any circumstances. 
+   Void elements can have attributes. The following is a complete list of the void elements in HTML : 
+   area , base , br , col , command , embed , hr , img , input , keygen , link , meta , param.
+
+4. What are HTML Entities?
+==>An HTML entity is a piece of text ("string") that begins with an ampersand (&) and ends with a semicolon (;).
+
+5.What are different types of lists in HTML?
+==><ul>	Defines an unordered list
+    <ol>Defines an ordered list
+    <li>Defines a list item
+    <dl>Defines a description list
+    <dt>Defines a term in a description list
+    <dd>Describes the term in a description list
+
+6.What is the 'class' attribute in HTML?
+==>The class attribute specifies one or more classnames for an element. The class attribute is mostly used to point to a class in a style sheet.
+
+7.What is the difference between the 'id' attribute and the 'class' attribute of HTML elements?
+==>A Class name can be used by multiple HTML elements, while an ID name must only be used by one HTML element within the page.
+
+8.What are the various formatting tags in HTML?
+==><b> - Bold text
+<strong> - Important text
+<i> - Italic text
+<em> - Emphasized text
+<mark> - Marked text
+<small> - Smaller text
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text
+
+9.How is cell padding different from cell spacing?
+==>Cellpadding basically defines the space present between a table cell's border and the content present in it. Cellspacing basically defines the space present between individual adjacent cells.
+
+10.How can we club two or more rows or columns into a single row or column in an HTML table?
+==> using the colspan attribute in a <td> HTML tag (table data.To merge two or more row cells, use the rowspan attribute.
+
+11. What is the difference between a block-level element and an inline element?
+==>By default, inline elements do not force a new line to begin in the document flow. Block elements, on the other hand, typically cause a line break to occur 
+
+12.How to create a Hyperlink in HTML?
+==>1.Use the <a> element to define a link.
+   2.Use the href attribute to define the link address.
+   3.Use the target attribute to define where to open the linked document.
+   4..Use the <img> element (inside <a> ) to use an image as a link.
+
+13.What is the use of an iframe tag?
+==>The <iframe> tag specifies an inline frame.
+
+14. What is the use of a span tag?Explain with example?
+==>The <span> tag is an inline container used to mark up a part of a text, or a part of a document.
+    Example. <span style="color: green;">green</span> colors for my painting.
+
+15.How to insert a picture into a background image of a web page?
+==> Under the CSS <style> tag, add the property background-image.
+
+16.How are active links different from normal links?
+==>How are active links different from normal links?
+
+17. What are the different tags to separate sections of text?
+==><br> tag – Usually <br> tag is used to separate the line of text. It breaks the current line and conveys the flow to the next line.
+    <p> tag – This contains the text in the form of a new paragraph.
+    <blockquote> tag – It is used to define a large quoted section.
+
+18.What is SVG?
+==>SVG stands for Scalable Vector Graphics · SVG is used to define vector-based graphics for the Web ·
+
+19.What is different between HTML and XHTML?
+==> HTML is the standard markup language for creating web pages, while XHTML is a stricter and more standardized version of HTML.
+
+20.What are logical and physical tags in HTML?
+==>Physical tags are used to tell the browser how to display the text enclosed in the physical tag.
