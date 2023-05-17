@@ -1,0 +1,65 @@
+1.What are the new tags added in HTML5?
+==><article> It defines the independent or self-contained content of a webpage.
+
+<aside>	It defines the content which provide information about the main content.
+
+<bdi> It is used to isolate the part of text which might be formatted in another direction.
+
+<details> It defines additional information which only visible as per user demand.
+
+<dialog> It represents a dialog box or other interactive components.
+
+<figcaption> It defines caption for the <figure> element.
+
+<figure> It defines a self-contained content, and referenced as a single unit.
+
+<footer> It represents the footer section of the webpage.
+
+<header> It defines the introductory or navigational content of the webpage.
+
+<main> It specifies the main content of the HTML document.
+
+<mark> It represent the text which is highlighted or marked for reference or notation purposes.
+
+<meter> It represents a scalar value within a known range.
+
+<nav> It represents the section which contains navigation links.
+
+<progress> It defines a progress bar which shows completions progress of a task.
+
+<rp> It defines alternative content for the browser which do not support ruby annotations.
+
+<rt> It defines explanations and pronunciations of characters in ruby annotations.
+
+<ruby> It defines ruby annotations (Specifically for Asian language).
+
+<section> It defines a generic section within an HTML document.
+
+<summary> It defines summary or caption for a <details> element which can be clicked to change the state of <details> element.
+
+<time> It defines data/time within an HTML document.
+
+<wbr> It specifies a line break opportunity. (Where line break possible)
+
+
+
+2.How to embed audio and video in a webpage?
+==>The HTML5 <audio> and <video> tags make it simple to add media to a website. You need to set src attribute to identify the media source and include a controls attribute so the user can play and pause the media.
+
+3.Semantic element in HTML5?
+==><article>
+   <aside>
+   <details>
+   <figcaption>
+   <figure>
+   <footer>
+   <header>
+   <main>
+   <mark> 
+   <nav>
+   <section>
+   <summary>
+   <time>
+4.Canvas and SVG tags
+==>An SVG image is drawn out using a series of statements that follow the XML schema — that means SVG images can be created and edited with any text editor, such as Notepad. There are several other advantages of using SVG over other image formats like JPEG, GIF, PNG, etc.
+
