@@ -1,0 +1,69 @@
+1.What is JavaScript?
+==>JavaScript is a dynamic computer programming language. It is lightweight and most commonly used as a part of web pages, whose implementations allow client-side script to interact with the user and make dynamic pages. It is an interpreted programming language with object-oriented capabilities.
+
+2.What is the use of isNaN function?
+==>The isNaN() function determines whether a value is NaN when converted to a number.
+
+3.What is negative Infinity?
+==>a special numeric value that is returned when an arithmetic operation or mathematical function generates a negative value greater than the largest representable number in JavaScript 
+
+4.Which company developed JavaScript?
+==>JavaScript was invented by Brendan Eich in 1995. It was developed for Netscape 2, and became the ECMA-262 standard in 1997. After Netscape handed JavaScript over to ECMA, the Mozilla foundation continued to develop JavaScript for the Firefox browser
+
+5.What are undeclared and undefined variables?
+==>Undeclared variables are those that have not been declared or defined in the current scope, while undefined variables are those that have been declared but not given a value
+
+6.Write the code for adding new elements dynamically?
+==>The createElement() method in JavaScript can be used to create new items dynamically. The setAttribute() method is used to set the attributes of the newly generated element. By clicking a button, a modal box appears and collects the required information dynamically
+
+7.What is the difference between ViewState and SessionState?
+==> A ViewState is a state of a page within a browser wherein the values of controls persist when post back operation is done. When another page is loaded, the previous page data is no longer available. - SessionState is the data of a user session and is maintained on the server side.
+
+8.What is === operator?
+==> a character that represents a specific mathematical or logical action or process.
+
+9.How can the style/class of an element be changed?
+==>changing its class attribute. class is a reserved word in JavaScript, so in order to access the element's class, you use element. className
+
+10.How to read and write a file using JavaScript?
+==>file=fopen(getScriptPath(),0); The function fread() is used for reading the file content.
+   str = fread(file,flength(file) ; The function fwrite() is used to write the contents to the file.
+   file = fopen("c:\MyFile.txt", 3);// opens the file for writing.
+
+11.What are all the looping structures in JavaScript?
+==>for - loops through a block of code a number of times.
+   for/in - loops through the properties of an object.
+   for/of - loops through the values of an iterable object.
+   while - loops through a block of code while a specified condition is true.
+
+12.How can you convert the string of any base to an integer in JavaScript?
+==> parseInt(), Number(), and Unary operator(+) function is used in javascript
+
+13.What is the function of the delete operator?
+==>The delete operator removes a given property from an object. On successful deletion, it will return true , else false will be returned.
+
+14.What are all the types of Pop up boxes available in JavaScript?
+==> Alert box, Confirm box, and Prompt box.
+
+15.How can you convert the string of any base to an integer in JavaScript?
+==>parseInt(), Number(), and Unary operator(+) function is used in javascript
+
+16.What is the function of the delete operator?
+==>The delete operator removes a given property from an object.
+
+17.What is the use of Void (0)?
+==> to prevent any side effects caused while inserting an expression in a web page.
+
+18.How can a page be forced to load another page in JavaScript?
+==> use window. location object to force a page to load another page.
+
+19.What are the disadvantages of using innerHTML in JavaScript?
+==>Event handlers attached to any DOM element are preserved.
+   Replacement is done everywhere.
+   It is not possible to append innerHTML.
+   Breaks the document.
+   Used for Cross-site Scripting.
+
+20.Create password field with show hide functionalities 
+==>
+
