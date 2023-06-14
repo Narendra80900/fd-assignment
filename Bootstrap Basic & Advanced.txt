@@ -1,0 +1,53 @@
+1.What are the advantages of Bootstrap?
+==>Easy initiation. Coding is a hurricane task for a person who is unbeknownst to web development..
+   Responsiveness..
+   Highly customizable..
+   Extremely user-centric..
+   Top-notch support. ...
+   Cross-browser compatibility..
+   JavaScript plugins to your rescue..
+   Far-reaching popularity.
+
+2.What are the default Bootstrap text settings?
+==> default font-size of 16px, and its line-height is 1.5. The default font-family is "Helvetica Neue", Helvetica, Arial, sans-serif. In addition, all <p> elements have margin-top: 0 and margin-bottom: 1rem (16px by default).
+
+3. What do you know about the Bootstrap Grid System?
+==>uses a series of containers, rows, and columns to layout and align content.
+
+4.What is the difference between Bootstrap 4 and Bootstrap 5
+==>Bootstrap.4 No support for I.E 8 and 9 only
+	       Separate both Portrait and Landscape mode on Smartphones.
+	       Container Size 1140px
+	       Use CSS Flexbox.
+	       Only responsive layout  
+	       Use Cards instead of wells and panels.
+
+==>Bootstrap.5 No support for I.E
+	       Separate both Portrait and Landscape mode on Smartphones.
+	       Container size 1320px
+	       Use CSS Flexbox, CSS functions and variables
+	       Only responsive layout.
+	       Use better Cards
+
+5.What is a Button Group, and what is the class for a basic Button Group?
+==> allow multiple buttons to be stacked together on a single line.
+
+6.How can you use Bootstrap to make thumbnails?
+==>Add an <a> tag with the class of . thumbnail around an image.
+   This adds four pixels of padding and a gray border.
+   On hover, an animated glow outlines the image.
+
+7.In Bootstrap 4, what is flexbox?
+==>used to quickly manage the layout, alignment and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities.
+
+8.How can one create an alert in Bootstrap?
+==>Success! This alert box indicates a successful or positive action.
+   Info! This alert box indicates a neutral informative change or action.
+   Warning! This alert box indicates a warning that might need attention.
+   Danger! This alert box indicates a dangerous or potentially negative action.
+
+9.What is a bootstrap card and how would you create one?
+==> a flexible and extensible content container.
+
+
+			
